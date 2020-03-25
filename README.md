@@ -1,2 +1,2 @@
 # rsschool-cv
-CV for RS school purposes
+https://rysz-eriksson.github.io/rsschool-cv/cv
