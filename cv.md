@@ -10,7 +10,7 @@ GitHub: [https://github.com/rysz-eriksson](https://github.com/rysz-eriksson)
 
 ## Summary
 
-Motivated engineer currently focused on developping front-end programing skills and looking to start a career in this area. Over 5 years of experience in IT companies in sales engineering and technical support, solid experience with web technologies (HTTP(S), DNS, TCP/IP, CDN, REST APIs, caching, web video delivery). 
+Motivated engineer currently focused on developping front-end programing skills and looking to start a career in this area. Has over 5 years of experience in IT companies in sales engineering and technical support, presents solid experience with web technologies (HTTP(S), DNS, TCP/IP, CDN, REST APIs, caching, web video delivery). 
 
 
 ## Programming Skills
